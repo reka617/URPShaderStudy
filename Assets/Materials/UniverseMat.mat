@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: UniverseMat
-  m_Shader: {fileID: -6465566751694194690, guid: 32ec9047402472a419b9a097328e7496,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 70190a2553b0e494bb2a0df482b5aa12, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -113,7 +112,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _InnerColor: {r: 0, g: 0, b: 0, a: 0}
+    - _InnerColor: {r: 0.8018868, g: 0.3517711, b: 0.53153604, a: 0}
     - _OuterColor: {r: 2, g: 2, b: 2, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
